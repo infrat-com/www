@@ -1,2 +1,2 @@
-# www
-www.infrat.com - components to delivering our Infrastructure Penetration Testing service. 
+![infrat](http://logo.infrat.com/1/cover.png)
+# www.infrat.com - components to delivering our Infrastructure Penetration Testing service. 
